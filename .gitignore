@@ -1,0 +1,11 @@
+data
+train_experiments
+eval_results
+visualizations
+*.npy
+*.npz
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
